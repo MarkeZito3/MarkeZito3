@@ -11,7 +11,7 @@
   </td>
   <td>
     <p><a href="https://github.com/MarkeZito3/MarkeZito3/blob/master/README-es.md">Spanish</a></p>
-    <p><a href="https://github.com/MarkeZito3/MarkeZito3/blob/master/README-es.md">English</a></p>
+    <p><a href="https://github.com/MarkeZito3/MarkeZito3/blob/master/README.md">English</a></p>
   </td>
 
 </tr>
