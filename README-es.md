@@ -3,7 +3,7 @@
 <table style="width:100%">
 <tr>
   <td>
-      <img src="https://raw.githubusercontent.com/MarkeZito3/MarkeZito3/master/assets/banner%20of%20me.png">
+      <img src="https://raw.githubusercontent.com/MarkeZito3/MarkeZito3/master/assets/banner%20of%20me-es.png">
   </td>
   <td>
     <p><a href="https://github.com/MarkeZito3/MarkeZito3/blob/master/README-es.md">Español</a></p>
