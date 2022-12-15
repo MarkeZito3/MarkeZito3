@@ -2,7 +2,8 @@
 <!-- day version -->
 <!-- <div align="center"><img src="https://raw.githubusercontent.com/MarkeZito3/MarkeZito3/master/assets/banner%20of%20me_%20bg-white.png"></div> -->
 
-# Software developer from Resistencia, Chaco. Argentina.
+# Hi! I'm Marcos Pereyra 🦊👋
+I'm Software Developer from Resistencia, Chaco. Argentina.
 
 Some technologies that I used:
 (buttons example below)
