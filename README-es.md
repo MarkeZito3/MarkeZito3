@@ -7,7 +7,7 @@
   </td>
   <td>
     <p><a href="https://github.com/MarkeZito3/MarkeZito3/blob/master/README-es.md">Español</a></p>
-    <p><a href="https://github.com/MarkeZito3/MarkeZito3/blob/master/README-es.md">Inglés</a></p>
+    <p><a href="https://github.com/MarkeZito3/MarkeZito3/blob/master/README.md">Inglés</a></p>
   </td>
 
 </tr>
