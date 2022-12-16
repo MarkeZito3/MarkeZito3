@@ -15,12 +15,6 @@
   Hi! I'm Marcos Pereyra 🦊👋
 </h1>
 
-<div align="right" hight>
-    <a href="https://github.com/MarkeZito3/MarkeZito3/blob/master/README-es.md">Spanish</a>
-    <br/>
-    <a href="https://github.com/MarkeZito3/MarkeZito3/blob/master/README.md">English</a>
-</div>
-
 I'm Software Developer from Resistencia, Chaco. Argentina. :argentina: 🧉
 
 - 🏢  I'm currently working on my [personal projects](https://github.com/MarkeZito3?tab=repositories)
