@@ -1,30 +1,27 @@
-<!-- <div align="justify">
-<a href="https://github.com/MarkeZito3/MarkeZito3/blob/master/README-es.md">Spanish</a>
-<p><a href="https://github.com/MarkeZito3/MarkeZito3/blob/master/README-es.md">English</a></p>
-<img src="https://raw.githubusercontent.com/MarkeZito3/MarkeZito3/master/assets/banner%20of%20me.png">
-</div> -->
-
-<table style="width:100%">
-<tr>
-  <td>
-      <img src="https://raw.githubusercontent.com/MarkeZito3/MarkeZito3/master/assets/banner%20of%20me.png">
-  </td>
-  <td>
-    <p><a href="https://github.com/MarkeZito3/MarkeZito3/blob/master/README-es.md">Spanish</a></p>
-    <p><a href="https://github.com/MarkeZito3/MarkeZito3/blob/master/README.md">English</a></p>
-  </td>
-
-</tr>
-</table>
+<div align="center">
+  <a href="https://github.com/MarkeZito3/MarkeZito3/blob/master/README-es.md">
+    <img align="right" alt="GIF" src="./assets/spanish-btn.png" width="40" height="40" />
+  </a>
+  <a href="https://github.com/MarkeZito3/MarkeZito3/blob/master/README.md">
+    <img align="right" alt="GIF" src="./assets/english-btn.png" width="40" height="40" />
+  </a>
+  <img  src="./assets/banner of me.png">
+</div>
 
 <!-- day version -->
-<!-- <div align="center"><img src="https://raw.githubusercontent.com/MarkeZito3/MarkeZito3/master/assets/banner%20of%20me_%20bg-white.png"></div> -->
+<!-- <div align="center"><img src="./assets/banner of me_ bg-white.png"></div> -->
 
 <h1 align="center">
   Hi! I'm Marcos Pereyra 🦊👋
 </h1>
 
-I'm Software Developer from Resistencia, Chaco. Argentina.
+<div align="right" hight>
+    <a href="https://github.com/MarkeZito3/MarkeZito3/blob/master/README-es.md">Spanish</a>
+    <br/>
+    <a href="https://github.com/MarkeZito3/MarkeZito3/blob/master/README.md">English</a>
+</div>
+
+I'm Software Developer from Resistencia, Chaco. Argentina. :argentina: 🧉
 
 - 🏢  I'm currently working on my [personal projects](https://github.com/MarkeZito3?tab=repositories)
 - 🌱  I’m currently learning Laravel
