@@ -15,7 +15,7 @@
   Hola! Soy Marcos Pereyra 🦊👋
 </h1>
 
-Soy un Desarrollador de Software de Resistencia, Chaco. Argentina. :argentina: 🧉
+Soy un Desarrollador de Software de Resistencia, Chaco. Argentina. :argentina: 🧉⭐⭐⭐
 
 - 🏢  Actualmente estoy trabajando en mis [personal projects](https://github.com/MarkeZito3?tab=repositories)
 - 🌱  Actualmente estoy aprendiendo Laravel
