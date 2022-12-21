@@ -15,7 +15,7 @@
   Hi! I'm Marcos Pereyra 🦊👋
 </h1>
 
-I'm Software Developer from Resistencia, Chaco. Argentina. :argentina: 🧉
+I'm a Software Developer from Resistencia, Chaco. Argentina. :argentina: 🧉 ⭐⭐⭐
 
 - 🏢  I'm currently working on my [personal projects](https://github.com/MarkeZito3?tab=repositories)
 - 🌱  I’m currently learning Laravel
