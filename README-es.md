@@ -23,7 +23,7 @@ Soy un Desarrollador de Software de Resistencia, Chaco. Argentina. :argentina: �
 - 📫  Pregúntame lo que sea en mi [Twitter](https://twitter.com/markezitotres) o [Instagram](https://www.instagram.com/markezito133/)
 - 💻  Contacta conmigo en mi [LinkedIn](https://www.linkedin.com/in/markezito3)
 
-## Algunas tecnologías que utilicé:
+<!-- ## Algunas tecnologías que utilicé: -->
 
 <!-- (buttons example below)
 
