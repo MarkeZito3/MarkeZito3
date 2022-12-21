@@ -23,7 +23,7 @@ I'm a Software Developer from Resistencia, Chaco. Argentina. :argentina: 🧉 �
 - 📫  Ask me anything on [Twitter](https://twitter.com/markezitotres) or [Instagram](https://www.instagram.com/markezito133/)
 - 💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/markezito3)
 
-## Some technologies that I used:
+<!-- ## Some technologies that I used: -->
 
 <!-- (buttons example below)
 
