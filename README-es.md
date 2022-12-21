@@ -5,7 +5,7 @@
   <a href="https://github.com/MarkeZito3/MarkeZito3/blob/master/README.md">
     <img align="right" alt="GIF" src="./assets/english-btn.png" width="40" height="40" />
   </a>
-  <img  src="./assets/banner of me-es.png">
+  <img  src="./assets/banner of me-es-ARGENTINA.png">
 </div>
 
 <!-- day version -->
@@ -34,6 +34,7 @@ Soy un Desarrollador de Software de Resistencia, Chaco. Argentina. :argentina: ð
 ## EstadÃ­sticas de GitHub:
 <div>
 
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkeZito3&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- https://github-readme-stats.vercel.app/api?username=MarkeZito3&theme=gruvbox&show_icons=true -->
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkeZito3&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
