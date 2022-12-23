@@ -25,11 +25,22 @@ I'm a Software Developer from Resistencia, Chaco. Argentina. :argentina: ðŸ§‰ â­
 
 ## Some technologies that I used:
 
-<!-- (buttons example below)
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code> -->
+<code><img name="HTML" height="40" src="./assets/tecnologies/HTML5.png"></code>
+<code><img name="CSS" height="40" src="./assets/tecnologies/CSS3.png"></code>
+<code><img name="JS" height="40" src="./assets/tecnologies/JS.png"></code>
+<code><img name="Git" height="40" src="./assets/tecnologies/GIT.png"></code>
+<code><img name="NodeJS" height="40" src="./assets/tecnologies/NODE.png"></code>
+<code><img name="ReactJS" height="40" src="./assets/tecnologies/react.png"></code>
+<code><img name="Postman" height="40" src="./assets/tecnologies/Postman.png"></code>
+<code><img name="SQL" height="40" src="./assets/tecnologies/MySQL.png"></code>
+<code><img name="MongoDB" height="40" src="./assets/tecnologies/mongodb.png"></code>
+</br>
+<code><img name="Python" height="40" src="./assets/tecnologies/Python.png"></code>
+<code><img name="Django" height="40" src="./assets/tecnologies/Django-Logo.png"></code>
+<code><img name="Jupyter" height="40" src="./assets/tecnologies/Jupyter.png"></code>
+<code><img name="PHP" height="40" src="./assets/tecnologies/PHP.png"></code>
+<code><img name="Laravel" height="40" src="./assets/tecnologies/Laravel.png"></code>
+<code><img name="Salesforce" height="40" src="./assets/tecnologies/Salesforce.png"></code>
 
 ## GitHub Stats:
 <div>
