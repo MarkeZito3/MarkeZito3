@@ -5,7 +5,7 @@
   <a href="https://github.com/MarkeZito3/MarkeZito3/blob/master/README.md">
     <img align="right" alt="GIF" src="./assets/english-btn.png" width="40" height="40" />
   </a>
-  <img  src="./assets/banner of me-es-ARGENTINA.png">
+  <img  src="./assets/banner of me-es.png">
 </div>
 
 <!-- day version -->
@@ -15,7 +15,7 @@
   Hola! Soy Marcos Pereyra 🦊👋
 </h1>
 
-Soy un Desarrollador de Software de Resistencia, Chaco. Argentina. :argentina: 🧉⭐⭐⭐
+Soy un Desarrollador de Software de Resistencia, Chaco. Argentina. :argentina: 🧉
 
 - 🏢  Actualmente estoy trabajando en mis [personal projects](https://github.com/MarkeZito3?tab=repositories)
 - 🌱  Actualmente estoy aprendiendo Laravel
