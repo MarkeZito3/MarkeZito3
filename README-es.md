@@ -18,9 +18,9 @@
 Soy un Desarrollador de Software de Resistencia, Chaco. Argentina. :argentina: 🧉
 
 - 🏢  Actualmente estoy trabajando en mis [personal projects](https://github.com/MarkeZito3?tab=repositories)
-- 🌱  Actualmente estoy aprendiendo Laravel
+- 🌱  Actualmente estudio Ingeniería de Sistemas [UTN FRRE](https://www.frre.utn.edu.ar/)
 - 💬  Me gusta hablar de Música
-- 📫  Pregúntame lo que sea en mi [Twitter](https://twitter.com/markezitotres) o [Instagram](https://www.instagram.com/markezito133/)
+- 📫  Pregúntame lo que sea en mi [Instagram](https://www.instagram.com/markezito133/)
 - 💻  Contacta conmigo en mi [LinkedIn](https://www.linkedin.com/in/markezito3)
 
 ## Algunas tecnologías que utilicé:
