@@ -18,9 +18,9 @@
 I'm a Software Developer from Resistencia, Chaco. Argentina. :argentina: 🧉
 
 - 🏢  I'm currently working on my [personal projects](https://github.com/MarkeZito3?tab=repositories)
-- 🌱  I’m currently learning Laravel
+- 🌱  I’m currently studying Systems Engineering [UTN FRRE](https://www.frre.utn.edu.ar/)
 - 💬  I like to talk about Music
-- 📫  Ask me anything on [Twitter](https://twitter.com/markezitotres) or [Instagram](https://www.instagram.com/markezito133/)
+- 📫  Ask me anything on [Instagram](https://www.instagram.com/markezito133/)
 - 💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/markezito3)
 
 ## Some technologies that I used:
