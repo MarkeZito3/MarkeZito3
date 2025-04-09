@@ -15,7 +15,8 @@
   Hi! I'm Marcos Pereyra 🦊👋
 </h1>
 
-I'm a Software Developer from Resistencia, Chaco. Argentina. :argentina: 🧉
+I'm a Software Developer from Resistencia, Chaco. Argentina. 🇦🇷 🧉
+Currently living in San Javier de Loncomilla, Maule Region. Chile. 🇨🇱
 
 - 🏢  I'm currently working on my [personal projects](https://github.com/MarkeZito3?tab=repositories)
 - 🌱  I’m currently studying Systems Engineering [UTN FRRE](https://www.frre.utn.edu.ar/)
