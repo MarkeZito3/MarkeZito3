@@ -15,10 +15,11 @@
   Hola! Soy Marcos Pereyra 🦊👋
 </h1>
 
-Soy un Desarrollador de Software de Resistencia, Chaco. Argentina. :argentina: 🧉
+Soy un Desarrollador de Software de Resistencia, Chaco. Argentina. 🇦🇷 🧉
+Actualmente vive en San Javier de Loncomilla, Región del Maule. Chile. 🇨🇱
 
 - 🏢  Actualmente estoy trabajando en mis [personal projects](https://github.com/MarkeZito3?tab=repositories)
-- 🌱  Actualmente estudio Ingeniería de Sistemas [UTN FRRE](https://www.frre.utn.edu.ar/)
+- 🌱  Actualmente estudio por mi cuenta con cursos online
 - 💬  Me gusta hablar de Música
 - 📫  Pregúntame lo que sea en mi [Instagram](https://www.instagram.com/markezito133/)
 - 💻  Contacta conmigo en mi [LinkedIn](https://www.linkedin.com/in/markezito3)
