@@ -19,7 +19,7 @@ I'm a Software Developer from Resistencia, Chaco. Argentina. 🇦🇷 🧉
 Currently living in San Javier de Loncomilla, Maule Region. Chile. 🇨🇱
 
 - 🏢  I'm currently working on my [personal projects](https://github.com/MarkeZito3?tab=repositories)
-- 🌱  I’m currently studying Systems Engineering [UTN FRRE](https://www.frre.utn.edu.ar/)
+- 🌱  I’m currently studying by myself in online courses
 - 💬  I like to talk about Music
 - 📫  Ask me anything on [Instagram](https://www.instagram.com/markezito133/)
 - 💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/markezito3)
